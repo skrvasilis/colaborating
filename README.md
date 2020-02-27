@@ -1,3 +1,4 @@
+
 # My short bio
   ## Name: Vasilis Skrimpas
   ## Age : 33
@@ -27,4 +28,20 @@
 
 # my word
 ## courage  : the quality of mind or spirit that enables a person to face difficulty, danger, pain, etc., without fear; bravery
+
+
+
+# colaborating
+
+I`m Filippo, I come from Ferrara
+
+scramble eggs:
+eggs
+onion
+chili 
+chese
+
+all together and mix
+
+filippo comes from old Greek: philos + hippos = the guy who likes horses
 
